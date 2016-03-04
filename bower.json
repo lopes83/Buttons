@@ -11,6 +11,6 @@
   ],
   "dependencies": {
     "jszip": "Stuk/jszip#~2.5.0",
-    "pdfmake": "bpampuch/pdfmake#~0.1.20"
+    "pdfmake": "https://github.com/lopes83/pdfmake.git#master"
   }
 }
