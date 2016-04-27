@@ -10,7 +10,7 @@
     "css/buttons.dataTables.scss"
   ],
   "dependencies": {
-    "jszip": "Stuk/jszip#~2.5.0",
+    "jszip": "https://github.com/Stuk/jszip.git#~2.5.0",
     "pdfmake": "https://github.com/lopes83/pdfmake.git#master"
   }
 }
